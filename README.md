@@ -11,7 +11,7 @@
 
 - 💻 Javascript | Python | C++ | Java
 - 🌐 &nbsp; HTML | CSS | ReactJS | Redux | Node.js | Express
-- 🛢 &nbsp; SQLite3 | PostgreSQL | Knex
+- 🎫 &nbsp; SQLite3 | PostgreSQL | Knex
 - 🔧 &nbsp; Git | Postman API 
 
 
