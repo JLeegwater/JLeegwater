@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | C++ | Java
+- 💻 Javascript | Python | C++ | Java
 - 🌐 &nbsp; HTML | CSS | ReactJS | Redux | Node.js | Express
 - 🛢 &nbsp; SQLite3 | PostgreSQL | Knex
 - 🔧 &nbsp; Git | Postman API 
